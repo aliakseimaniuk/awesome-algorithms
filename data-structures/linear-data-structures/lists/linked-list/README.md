@@ -11,7 +11,7 @@
 
 ## Implementations
 
-* [JavaScript implementation](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/linked-list)
-* [C implementation](https://www.geeksforgeeks.org/linked-list-set-1-introduction/)
-* [Java implementation](https://www.geeksforgeeks.org/linked-list-set-1-introduction/)
-* [Python implementation](https://www.geeksforgeeks.org/linked-list-set-1-introduction/)
+* [Implementation in JavaScript](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/linked-list)
+* [Implementation in C](https://www.geeksforgeeks.org/linked-list-set-1-introduction/)
+* [Implementation in Java](https://www.geeksforgeeks.org/linked-list-set-1-introduction/)
+* [Implementation in Python](https://www.geeksforgeeks.org/linked-list-set-1-introduction/)

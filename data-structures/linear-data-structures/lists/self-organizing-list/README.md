@@ -8,4 +8,4 @@
 
 ## Implementations
 
-* [Go implementation](https://github.com/Riturajcse/Self-Organizing-List)
+* [Implementation in Go](https://github.com/Riturajcse/Self-Organizing-List)
