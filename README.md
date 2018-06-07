@@ -6,4 +6,4 @@ This repository contains list of resources about popular algorithms, data struct
 
 ### Linear Data Structures
 
-* [Doubly Linked List](./data-structures/linear-data-structures/doubly-linked-list/)
+* [Doubly Linked List](./data-structures/linear-data-structures/lists/doubly-linked-list/README.md)
