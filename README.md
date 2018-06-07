@@ -22,4 +22,10 @@ This repository contains list of resources about popular algorithms, data struct
 
 ### Sorting
 
+#### Tools
+
+* [Sorting algorithm visualization tool](http://sorting.at/)
+
+#### Sorting algorithms
+
 * [Bubble sort](./algorithms/sorting/bubble-sort/README.md)
