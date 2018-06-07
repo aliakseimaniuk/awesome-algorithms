@@ -3,7 +3,7 @@
 ## References
 
 * [Wikipedia](https://en.wikipedia.org/wiki/Data_structure)
-* [Youtube](https://youtu.be/k0pjD12bzP0)
+* [YouTube](https://youtu.be/k0pjD12bzP0)
 
 ## Implementations
 

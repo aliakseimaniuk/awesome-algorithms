@@ -3,4 +3,4 @@
 ## References
 
 * [Wikipedia](https://en.wikipedia.org/wiki/Dynamic_array)
-* [Youtube](https://youtu.be/wXeBVndWA78)
+* [YouTube](https://youtu.be/wXeBVndWA78)

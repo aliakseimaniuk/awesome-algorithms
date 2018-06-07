@@ -3,7 +3,7 @@
 ## References
 
 * [Wikipedia](https://en.wikipedia.org/wiki/Linked_list)
-* [Youtube](https://youtu.be/njTh_OwMljA)
+* [YouTube](https://youtu.be/njTh_OwMljA)
 
 ## Books
 
