@@ -2,6 +2,10 @@
 
 This repository contains list of resources about popular algorithms, data structures.
 
+## Big-O notation
+
+[Big O notation cheat sheet](http://bigocheatsheet.com/)
+
 ## Data Structures
 
 ### Linear Data Structures
@@ -29,3 +33,4 @@ This repository contains list of resources about popular algorithms, data struct
 #### Sorting algorithms
 
 * [Bubble sort](./algorithms/sorting/bubble-sort/README.md)
+* [Insertion sort](./algorithms/sorting/insertion-sort/README.md)
