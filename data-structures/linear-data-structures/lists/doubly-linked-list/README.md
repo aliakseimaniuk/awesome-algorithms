@@ -5,7 +5,7 @@
 * [Wikipedia](https://en.wikipedia.org/wiki/Data_structure)
 * [Youtube](https://youtu.be/k0pjD12bzP0)
 
-## Implementation
+## Implementations
 
 * [Java implementation](https://www.geeksforgeeks.org/doubly-linked-list/)
 * [C implementation](https://www.geeksforgeeks.org/doubly-linked-list/)
