@@ -14,6 +14,12 @@ This repository contains list of resources about popular algorithms, data struct
 * [Unrolled Linked List](./data-structures/linear-data-structures/lists/unrolled-linked-list/README.md)
 * [XOR Linked List](./data-structures/linear-data-structures/lists/xor-linked-list/README.md)
 
-## Trees
+### Trees
 
 * [Conc-Tree](./data-structures/trees/trees/conc-tree/README.md)
+
+## Algorithms
+
+### Sorting
+
+* [Bubble sort](./algorithms/sorting/bubble-sort/README.md)
