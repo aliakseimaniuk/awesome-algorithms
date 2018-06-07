@@ -24,7 +24,7 @@ This repository contains list of resources about popular algorithms, data struct
 
 #### Tools
 
-* [Sorting algorithm visualization tool](http://sorting.at/)
+* [Sorting algorithms visualization tool](http://sorting.at/)
 
 #### Sorting algorithms
 
