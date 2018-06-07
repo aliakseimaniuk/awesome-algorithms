@@ -34,4 +34,5 @@ This repository contains list of resources about popular algorithms, data struct
 
 * [Block sort](./algorithms/sorting/block-sort/README.md)
 * [Bubble sort](./algorithms/sorting/bubble-sort/README.md)
+* [Bucket sort](./algorithms/sorting/bucket-sort/README.md)
 * [Insertion sort](./algorithms/sorting/insertion-sort/README.md)
