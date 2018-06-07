@@ -1,4 +1,4 @@
-# Linked List
+# Self Organizing List
 
 ## References
 
