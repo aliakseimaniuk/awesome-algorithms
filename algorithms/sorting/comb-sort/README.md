@@ -22,6 +22,7 @@ Space Complexity
 * [YouTube](https://youtu.be/X5DKBwDL0kU)
 
 ## Articles
+
 * [Sorting Algorithms: The Comb Sort](http://buffered.io/posts/sorting-algorithms-the-comb-sort/)
 
 ## Implementations

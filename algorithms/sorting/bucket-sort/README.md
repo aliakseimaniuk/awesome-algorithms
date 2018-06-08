@@ -26,6 +26,10 @@ Space Complexity
 * [Wikipedia](https://en.wikipedia.org/wiki/Bucket_sort)
 * [YouTube](https://youtu.be/geVyIsFpxUs)
 
+## Books
+
+* **Introduction to Algorithms** by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein
+
 ## Implementations
 
 * [Implementation in C](https://users.dcc.uchile.cl/~rbaeza/handbook/algs/4/423.sort.c.html)

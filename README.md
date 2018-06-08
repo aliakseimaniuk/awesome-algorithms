@@ -29,6 +29,7 @@ This repository contains list of resources about popular algorithms, data struct
 #### Tools
 
 * [Sorting algorithms visualization tool](http://sorting.at/)
+* [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
 #### Sorting algorithms
 
@@ -37,4 +38,5 @@ This repository contains list of resources about popular algorithms, data struct
 * [Bucket sort](./algorithms/sorting/bucket-sort/README.md)
 * [Cocktail Shaker Sort](./algorithms/sorting/cocktail-sort/README.md)
 * [Comb Sort](./algorithms/sorting/comb-sort/README.md)
+* [Counting Sort](./algorithms/sorting/counting-sort/README.md)
 * [Insertion sort](./algorithms/sorting/insertion-sort/README.md)
