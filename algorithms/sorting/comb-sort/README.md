@@ -32,3 +32,4 @@ Space Complexity
 * [Implementation in Python](https://www.geeksforgeeks.org/comb-sort/)
 * [Implementation in C#](https://www.geeksforgeeks.org/comb-sort/)
 * [Implementation in Go](http://www.golangprograms.com/golang-program-for-implementation-of-combsort.html)
+* [Implementation of comb sort in many languages](https://rosettacode.org/wiki/Sorting_algorithms/Comb_sort)

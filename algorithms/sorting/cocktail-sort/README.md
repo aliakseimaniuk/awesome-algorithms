@@ -27,3 +27,5 @@ Space Complexity
 * [Implementation in Java](https://www.geeksforgeeks.org/cocktail-sort/)
 * [Implementation in Python](https://www.geeksforgeeks.org/cocktail-sort/)
 * [Implementation in C#](https://www.geeksforgeeks.org/cocktail-sort/)
+* [Implementation of cocktail sort in many languages](https://rosettacode.org/wiki/Sorting_algorithms/Cocktail_sort)
+
