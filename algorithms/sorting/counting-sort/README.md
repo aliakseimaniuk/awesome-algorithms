@@ -36,3 +36,4 @@ Space Complexity
 * [Implementation in Java](https://www.geeksforgeeks.org/counting-sort/)
 * [Implementation in Python](https://www.geeksforgeeks.org/counting-sort/)
 * [Implementation in C#](https://www.geeksforgeeks.org/counting-sort/)
+* [Implementation in JavaScript](https://github.com/trekhleb/javascript-algorithms/tree/master/src/algorithms/sorting/counting-sort)
