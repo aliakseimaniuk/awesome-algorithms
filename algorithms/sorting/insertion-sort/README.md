@@ -29,6 +29,10 @@ Space Complexity
 * **Introduction to Algorithms** by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein
 * **Algorithms in Java, Parts 1-4** by Robert Sedgewick
 
+## Articles
+
+* [Inching Towards Insertion Sort](https://medium.com/basecs/inching-towards-insertion-sort-9799274430da)
+
 ## Implementations
 
 * [Implementation in JavaScript](https://github.com/trekhleb/javascript-algorithms/tree/master/src/algorithms/sorting/insertion-sort)
