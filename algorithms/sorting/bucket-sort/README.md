@@ -9,6 +9,18 @@ Bucket sort works as follows:
 1. Sort each non-empty bucket.
 1. Gather: Visit the buckets in order and put all elements back into the original array.
 
+Time complexity
+
+| Best     |  Average   | Worst  |
+| -------- | --------   | ------ |
+| Ω(n + k) |  Θ(n + k)  | O(n^2) |
+
+Space Complexity
+
+|        Worst        |
+|---------------------|
+|        O(n*k)       |
+
 ## References
 
 * [Wikipedia](https://en.wikipedia.org/wiki/Bucket_sort)
