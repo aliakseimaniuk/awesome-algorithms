@@ -9,6 +9,8 @@ Bucket sort works as follows:
 1. Sort each non-empty bucket.
 1. Gather: Visit the buckets in order and put all elements back into the original array.
 
+[Algorithm Visualization](https://www.cs.usfca.edu/~galles/visualization/BucketSort.html)
+
 Time complexity
 
 | Best     |  Average   | Worst  |
