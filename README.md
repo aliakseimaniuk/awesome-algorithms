@@ -42,4 +42,5 @@ This repository contains list of resources about popular algorithms, data struct
 * [Counting Sort](./algorithms/sorting/counting-sort/README.md)
 * [Cube Sort](./algorithms/sorting/cube-sort/README.md)
 * [Cycle Sort](./algorithms/sorting/cycle-sort/README.md)
+* [Gnome Sort](./algorithms/sorting/gnome-sort/README.md)
 * [Insertion sort](./algorithms/sorting/insertion-sort/README.md)
