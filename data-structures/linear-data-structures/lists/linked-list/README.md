@@ -4,6 +4,7 @@
 
 * [Wikipedia](https://en.wikipedia.org/wiki/Linked_list)
 * [YouTube](https://youtu.be/njTh_OwMljA)
+* [Introduction to Linked Lists - YouTube Video](https://youtu.be/WwfhLC16bis)
 
 ## Books
 
