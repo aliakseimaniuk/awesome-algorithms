@@ -46,3 +46,4 @@ This repository contains list of resources about popular algorithms, data struct
 * [Heap Sort](./algorithms/sorting/heap-sort/README.md)
 * [Insertion sort](./algorithms/sorting/insertion-sort/README.md)
 * [Merge sort](./algorithms/sorting/merge-sort/README.md)
+* [Odd-even sort](./algorithms/sorting/oddeven-sort/README.md)
