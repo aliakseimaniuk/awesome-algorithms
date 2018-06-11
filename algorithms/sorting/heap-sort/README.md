@@ -25,5 +25,5 @@ Space Complexity
 
 ## Implementations
 
-* [Implementation of in many languages](https://rosettacode.org/wiki/Sorting_algorithms/Heapsort)
+* [Implementation in many languages](https://rosettacode.org/wiki/Sorting_algorithms/Heapsort)
 * [Implementation in JavaScript](https://github.com/trekhleb/javascript-algorithms/tree/master/src/algorithms/sorting/heap-sort)
