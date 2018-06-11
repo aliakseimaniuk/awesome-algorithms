@@ -45,3 +45,4 @@ This repository contains list of resources about popular algorithms, data struct
 * [Gnome Sort](./algorithms/sorting/gnome-sort/README.md)
 * [Heap Sort](./algorithms/sorting/heap-sort/README.md)
 * [Insertion sort](./algorithms/sorting/insertion-sort/README.md)
+* [Merge sort](./algorithms/sorting/merge-sort/README.md)

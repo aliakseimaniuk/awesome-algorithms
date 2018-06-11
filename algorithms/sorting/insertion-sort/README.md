@@ -6,6 +6,8 @@ Sorting is typically done in-place, by iterating up the array, growing the sorte
 
 ![Algorithm Visualization](https://upload.wikimedia.org/wikipedia/commons/4/42/Insertion_sort.gif)
 
+[Algorithm Visualization](https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html)
+
 Time complexity
 
 | Best |  Average | Worst  |

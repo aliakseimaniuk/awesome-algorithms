@@ -4,6 +4,8 @@ Bubble sort, sometimes referred to as sinking sort, is a simple sorting algorith
 
 ![Algorithm Visualization](https://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gif)
 
+[Algorithm Visualization](https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html)
+
 Time complexity
 
 | Best |  Average | Worst  |
