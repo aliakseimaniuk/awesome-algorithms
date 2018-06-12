@@ -53,3 +53,4 @@ This repository contains list of resources about popular algorithms, data struct
 * [Shell sort](./algorithms/sorting/shell-sort/README.md)
 * [Smooth sort](./algorithms/sorting/smooth-sort/README.md)
 * [Timsort](./algorithms/sorting/tim-sort/README.md)
+* [Tree sort](./algorithms/sorting/tree-sort/README.md)
