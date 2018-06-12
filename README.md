@@ -48,3 +48,4 @@ This repository contains list of resources about popular algorithms, data struct
 * [Merge sort](./algorithms/sorting/merge-sort/README.md)
 * [Odd-even sort](./algorithms/sorting/oddeven-sort/README.md)
 * [Quicksort](./algorithms/sorting/quick-sort/README.md)
+* [Radix sort](./algorithms/sorting/radix-sort/README.md)
