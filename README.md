@@ -34,7 +34,9 @@ This repository contains list of resources about popular algorithms, data struct
 
 #### Sorting algorithms
 
+* [Bead sort](./algorithms/sorting/bead-sort/README.md)
 * [Block sort](./algorithms/sorting/block-sort/README.md)
+* [Bogosort](./algorithms/sorting/bogo-sort/README.md)
 * [Bubble sort](./algorithms/sorting/bubble-sort/README.md)
 * [Bucket sort](./algorithms/sorting/bucket-sort/README.md)
 * [Cocktail Shaker Sort](./algorithms/sorting/cocktail-sort/README.md)
