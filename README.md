@@ -50,3 +50,4 @@ This repository contains list of resources about popular algorithms, data struct
 * [Quicksort](./algorithms/sorting/quick-sort/README.md)
 * [Radix sort](./algorithms/sorting/radix-sort/README.md)
 * [Selection sort](./algorithms/sorting/selection-sort/README.md)
+* [Shell sort](./algorithms/sorting/shell-sort/README.md)
